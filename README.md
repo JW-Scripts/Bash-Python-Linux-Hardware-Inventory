@@ -1,4 +1,5 @@
-# Linux-Hardware-Inventory
+# Bash-Python-Linux-Hardware-Inventory
+
 This Hardware Inventory takes a hybrid approach using Bash and Python together. 
 Root privileges must be estabilshed and enabled prior to execution of these scripts. 
 
