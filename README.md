@@ -6,9 +6,11 @@ Root privileges must be estabilshed and enabled prior to execution of these scri
 The Bash and Python Script is used to gather Hardware information on remote Linux systems. This method has worked on tested environments such as Ubuntu, Mint, and Kali
 
 # Variable Changes
-Change the directories to your respected lcoations as required. Examples include the following:
-$SEND_FILES variable:
+Change the directories to your respected lcoations as required. 
 
+Examples include the following:
+
+$SEND_FILES variable:
 "Your/ServerOrClient/Linux/Directory/to/Python-Script.py" - Change to your source machine
 “$USERNAME@$ip:/home/target/path/for/python/script” - Change to the remote Linux system path to send the script
 
